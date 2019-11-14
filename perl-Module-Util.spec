@@ -7,13 +7,13 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	Module::Util - Module name tools and transformations
 Name:		perl-Module-Util
-Version:	1.07
+Version:	1.09
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Module/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	d9e5d48b7f1aee18582fab57f27cccfa
+# Source0-md5:	4b7cc19f3f998e2d543ae033fbcb5666
 URL:		http://search.cpan.org/dist/Module-Util/
 BuildRequires:	perl-Module-Build
 BuildRequires:	perl-devel >= 1:5.8.0

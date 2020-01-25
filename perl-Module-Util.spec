@@ -4,7 +4,6 @@
 
 %define		pdir	Module
 %define		pnam	Util
-%include	/usr/lib/rpm/macros.perl
 Summary:	Module::Util - Module name tools and transformations
 Name:		perl-Module-Util
 Version:	1.09
